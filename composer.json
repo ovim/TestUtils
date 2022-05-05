@@ -1,0 +1,17 @@
+{
+    "name": "ovim/test-utils",
+    "description": "this is a test utils",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Ovim\\TestUtils\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ovim"
+        }
+    ],
+    "require": {}
+}
